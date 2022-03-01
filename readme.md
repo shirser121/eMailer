@@ -25,6 +25,7 @@ This is the options of the config file:
 - EMAIL_PASSWORD=
 - FROM=
 - SUBJECT=
+- DIRECTION=
 - EXCEL_FILE_NAME=
 - MESSAGE_FILE_NAME=
 
