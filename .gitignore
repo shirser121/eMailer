@@ -1,0 +1,9 @@
+/help
+/dist
+/build
+/venv
+/.idea
+message.txt
+config.txt
+main.spec
+rec.xlsx
